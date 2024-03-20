@@ -1,3 +1,4 @@
+// Functional Component
 // JSX
 function App() {
   return (
